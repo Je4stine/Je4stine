@@ -18,9 +18,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: I’m mostly working on new things that can save the society.
+- :telescope: I’m mostly working on new things - Anything Android and IoT facinates me
 
 - :seedling: Exploring New technologies.
 
