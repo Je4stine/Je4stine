@@ -18,11 +18,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: I’m mostly working on new things - Anything Android and IoT fascinates me
-
-- :seedling: Exploring New technologies.
+- :seedling: I like Exploring New technologies.
 
 - :zap: In my free time, I make video animations.
 
